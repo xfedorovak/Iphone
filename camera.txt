@@ -1,1 +1,1 @@
- Resolution=8MPx, Autofocus, Video=Full HD
+Resolution=8MPx, Autofocus, Video=Full HD
