@@ -1,2 +1,2 @@
-Resolution=12MPx, Autofocus, HDR,
+Dual, Resolution=12MPx, Autofocus, HDR,
 Video=4K UHD
