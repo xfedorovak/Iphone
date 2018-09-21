@@ -1,2 +1,2 @@
-CPU=2x2.1GHz+4x2.1 (Apple A11 Bionic),
-RAM=3GB, Memory=256GB
+CPU=2x2.5GHz+4x1.59 (Apple A12 Bionic),
+RAM=4GB, Memory=512GB
