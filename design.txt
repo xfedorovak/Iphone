@@ -1,2 +1,2 @@
-touch screen, Face ID, 3D Touch, display=6.5inch,
-weight=208g
+touch screen, Face ID, Haptic Touch, display=6.5inch,
+weight=226g
